@@ -5,5 +5,5 @@ This stack uses:
 - Webpack
 - SASS
 - Babel
-- Eslint
-- Bootstrap grid system, responsive helpers and some css components
+- Eslint (Standard)
+- Bootstrap 3.3 grid system, responsive helpers and some css components
